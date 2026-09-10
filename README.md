@@ -1,6 +1,4 @@
-# index
-
-https://justinksw.github.io/index/
+# Skills
 
 ## Reference
 
